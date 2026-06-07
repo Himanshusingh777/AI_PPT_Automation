@@ -1,0 +1,24 @@
+body {
+    background: #111;
+    color: white;
+    font-family: Arial;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+}
+
+input,
+button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+}
+
+pre {
+    background: #222;
+    padding: 15px;
+    white-space: pre-wrap;
+}
