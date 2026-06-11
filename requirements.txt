@@ -8,5 +8,5 @@ requests==2.32.3
 pytesseract
 streamlit
 google-generativeai
-Pillow==13.1.0
+Pillow==12.2.0
 python-dotenv
